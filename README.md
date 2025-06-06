@@ -1,3 +1,9 @@
+# ⚠️ NOTICE ⚠️
+
+**This repository is old and unmaintained. It uses outdated versions of everything. There are many vulnerabilities. Please only use this for learning purposes. This wasn't intended to be used in productive environments.**
+
+---
+
 # solana-switchboard-vrf-pool
 
 Example Solana program using Switchboard's VRF and a VrfAccount pool schema
